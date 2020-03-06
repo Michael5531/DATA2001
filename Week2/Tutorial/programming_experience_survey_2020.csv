@@ -1,0 +1,410 @@
+respondent_id,submitted,Tutorial Class,Degree,Programming Experience,Experience in Python,Used Jupyter Notebooks,Other Programming Language Competency,SQL Competency,RDBMS Competency
+1,2020-03-05 08:49:10 UTC,"Friday 10 a.m. to 12 p.m., weeks 1-6 and 8-13 of semester 1 in [SIT Lab 116] (https://web.timetable.usyd.edu.au/examVenueDetails.jsp?venueAlias=J12.116)",biology and data science,1,Written some simple Python programs,No,Java,"Heard of it, but never used it.","Microsoft Access,Oracle,Sybase"
+2,2020-03-05 05:55:35 UTC,F12,Biomedical engineering,,None,No,"Matlab,R",Never heard of SQL.,Microsoft Access
+3,2020-03-04 13:59:27 UTC,"Friday, 10-12 A.M., SIT lab 114","Advanced Computing, 2rd year",3,Have written complex Python programs already.,Yes,"C,C++,Java","Heard of it, but never used it.",SQLite
+4,2020-03-03 23:46:26 UTC,F10D,"Bachelor of Economics, second year",6,Competent Python programmer (familiar with eg. functions and classes),No,"Java,Matlab,R",Written some SQL queries already.,Microsoft Access
+5,2020-03-03 06:47:16 UTC,Friday 2-4pm SIT 116,Bachelor of Project Management,1,Basic understanding,No,Java,Written some SQL queries already.,"Microsoft SQL Server,MySQL,SQLite"
+6,2020-03-03 05:12:44 UTC,F16A,"Bachelor of Science, majors in microbiology and data science. 4th year. ",1,Competent Python programmer (familiar with eg. functions and classes),Yes,R,"Heard of it, but never used it.",
+7,2020-03-02 08:10:04 UTC,F08B,"bacheor of advanced computing, 2nd year",1,Competent Python programmer (familiar with eg. functions and classes),No,Java,"Heard of it, but never used it.",
+8,2020-03-01 11:28:46 UTC,,"Advanced computing 
+
+second year",1,Written some simple Python programs,No,Java,Never heard of SQL.,
+9,2020-02-29 11:53:34 UTC,F08D_F14D,YEAR 3 OF BACHELOR OF ADVANCING COMPUTING,3,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R","Heard of it, but never used it.",Oracle
+10,2020-02-29 07:56:17 UTC,Fri AM,,3,Written some simple Python programs,Yes,"C++,C#",Can interpret some SQL statements.,
+11,2020-02-29 06:28:29 UTC,F12B,"Biomedical Engineering, 2nd year",2.5,Have written complex Python programs already.,No,"Java,R,Other (answer below in comment)",Never heard of SQL.,Oracle
+12,2020-02-29 04:23:05 UTC,F16A,"Bachelor of computer science and technology, 2017",2,Competent Python programmer (familiar with eg. functions and classes),No,"C,C#,Java,Javascript/ECMAScript,Matlab",Can already create tables and write complex SQL queries.,Microsoft Access
+13,2020-02-28 10:24:09 UTC,F16A,"software eng and science
+
+y2",1,Basic understanding,No,Java,Never heard of SQL.,Other (answer as comment below)
+14,2020-02-28 05:21:03 UTC,"Friday 4-6, SIT Lab 115","Bsci, 2nd year",1,Basic understanding,No,,Never heard of SQL.,
+15,2020-02-28 05:20:18 UTC,T10A,the second year of Computational data science and Finance,1,Written some simple Python programs,Yes,,"Heard of it, but never used it.",
+16,2020-02-28 05:19:46 UTC,F16A,"Bachelors of Software Engineering (Honours), 2nd Semester. ",1,Written some simple Python programs,No,"Java,Javascript/ECMAScript",Can interpret some SQL statements.,Microsoft SQL Server
+17,2020-02-28 05:19:17 UTC,friday 4pm-6pm in room115,"2+2 program, and I am only going to spend 2.5 years and this is my first year. bachelor degree in computational data science",0,None,No,C,"Heard of it, but never used it.",
+18,2020-02-28 05:17:16 UTC,F10A,advanced computing 1st year,1,Competent Python programmer (familiar with eg. functions and classes),No,"Java,Matlab,R","Heard of it, but never used it.",
+19,2020-02-28 05:15:47 UTC,4-6pm SIT 115,"Bachelor of Advanced Computing Year 2
+
+ ",3,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R,Other (answer below in comment)",Can already create tables and write complex SQL queries.,"Microsoft SQL Server,MySQL"
+20,2020-02-28 05:15:19 UTC,Friday 4-6 p.m SIT lab 115,"Bachelor of Advanced Computing
+
+2nd year",1,Competent Python programmer (familiar with eg. functions and classes),No,"Java,Matlab,R","Heard of it, but never used it.",
+21,2020-02-28 05:15:19 UTC,F16A,"bachelor of advanced computing major in computational data science, second year",1,Written some simple Python programs,No,Java,"Heard of it, but never used it.",MySQL
+22,2020-02-28 05:15:10 UTC,F16  SIT115,advanced computing,1,Written some simple Python programs,No,Java,"Heard of it, but never used it.",Microsoft Access
+23,2020-02-28 05:14:59 UTC,4-6pm,"Bachelor of Science/ Advanced studies 
+
+Second Year",1,Competent Python programmer (familiar with eg. functions and classes),No,,Written some SQL queries already.,
+24,2020-02-28 05:14:55 UTC,4-6pm Friday SIT lab 115,"bachelor of Science major in Data science, minor in mathematics. 3rd year",3,Written some simple Python programs,Yes,"C,Java",Written some SQL queries already.,MySQL
+25,2020-02-28 05:14:45 UTC,Fri SIT115 4-6PM,advanced computing,1,Basic understanding,Yes,Java,Can interpret some SQL statements.,
+26,2020-02-28 05:14:43 UTC,Friday 4pm-6pm with Arpit ,"Bachelor of Advanced Computing 
+
+Year 2 ",1,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R",Written some SQL queries already.,Oracle
+27,2020-02-28 05:14:05 UTC,F16A,"Bachelor of Liberal arts and Science
+
+Second Year",1,Written some simple Python programs,Yes,"R,Other (answer below in comment)",Written some SQL queries already.,MySQL
+28,2020-02-28 04:55:24 UTC,Fir14:00-16:00 in CS Lab 457,"undergraduate of bachelor of science this is my second semester study in the university.
+
+ ",1,Competent Python programmer (familiar with eg. functions and classes),No,"C++,R","Heard of it, but never used it.",Microsoft Access
+29,2020-02-28 04:16:30 UTC,F10A,2nd year of advanced computing.,1,Basic understanding,Yes,R,Never heard of SQL.,Microsoft Access
+30,2020-02-28 03:41:02 UTC,F14C,"Bachelor of Science / Bachelor of Advanced studies, 3rd year ",1,Written some simple Python programs,Yes,R,"Heard of it, but never used it.",
+31,2020-02-28 03:24:48 UTC,,Computer Science & Software development ,2,Written some simple Python programs,No,"Java,Javascript/ECMAScript,Matlab",Can already create tables and write complex SQL queries.,"MySQL,PostgreSQL"
+32,2020-02-28 03:24:38 UTC,"Friday 12-2pm 
+
+SIT lab 114 (online)",In the second year doing bachelor of Advanced Computing.,1,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R","Heard of it, but never used it.",Other (answer as comment below)
+33,2020-02-28 03:24:04 UTC,,"Computer Science and technology, 3th year",3,Basic understanding,Yes,Java,"Heard of it, but never used it.",MySQL
+34,2020-02-28 03:23:59 UTC,f14A,"2nd year
+
+Bachelor of Science: Data Science  major Nutrition Major",1,Basic understanding,Yes,R,Never heard of SQL.,Microsoft Access
+35,2020-02-28 03:23:39 UTC,,"biomedical engineering, second year",1,Written some simple Python programs,No,Matlab,"Heard of it, but never used it.",Microsoft Access
+36,2020-02-28 03:23:17 UTC,Yep,"Computer Science, 4th year",3,Written some simple Python programs,Yes,"C,Java,Javascript/ECMAScript,Matlab,R",Can already create tables and write complex SQL queries.,"MongoDB,MySQL,PostgreSQL"
+37,2020-02-28 03:22:56 UTC,FD14,undergraduate year2,1,Written some simple Python programs,No,Java,Never heard of SQL.,Microsoft Access
+38,2020-02-28 03:22:17 UTC,F14A,2nd year Computer Science/Statistics,2,Competent Python programmer (familiar with eg. functions and classes),No,"C,Java,Javascript/ECMAScript,Matlab,R",Can interpret some SQL statements.,
+39,2020-02-28 03:22:14 UTC,F14A,bachelor of advanced computing major in computer science and computational data science,1,Written some simple Python programs,No,"C,Java,R,Visual Basic","Heard of it, but never used it.",Oracle
+40,2020-02-28 03:21:20 UTC,Room SIT 115,Second year Bachelor of Economics and Advanced Studies (major in Econometrics and  data science),0.5,Basic understanding,Yes,,Never heard of SQL.,
+41,2020-02-28 03:21:04 UTC,yes,degree of science and the second year,1,Basic understanding,No,R,Never heard of SQL.,Microsoft Access
+42,2020-02-28 03:20:37 UTC,Yes,"bachelor of arts and science 2019
+
+ ",0.4,Competent Python programmer (familiar with eg. functions and classes),No,R,Never heard of SQL.,
+43,2020-02-28 03:20:22 UTC,data2001,bachelor of science and second year,1,Written some simple Python programs,Yes,R,Never heard of SQL.,Microsoft Access
+44,2020-02-28 03:20:00 UTC,F14B,I am doing data science and computer science. It is my second year.,1,Competent Python programmer (familiar with eg. functions and classes),Yes,"Java,R",Can interpret some SQL statements.,MySQL
+45,2020-02-28 03:19:53 UTC,F14A,2nd Year Advanced Computing,1.5,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R","Heard of it, but never used it.",
+46,2020-02-28 03:19:39 UTC,F14B,data science / law second year,1,Basic understanding,Yes,,"Heard of it, but never used it.",
+47,2020-02-28 03:19:32 UTC,"F14B
+
+ ",Second year in Bachelor of Advanced Computing (data science major),1.5,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R",Written some SQL queries already.,Other (answer as comment below)
+48,2020-02-28 03:19:25 UTC,yes,computer science year 3,3,Competent Python programmer (familiar with eg. functions and classes),No,Java,Written some SQL queries already.,SQLite
+49,2020-02-28 03:19:17 UTC,"f14d
+
+SIT 114
+
+ ",data science,0.5,Basic understanding,No,R,Never heard of SQL.,Microsoft Access
+50,2020-02-28 03:19:12 UTC,F14B,Bachelor of Advanced Computing and Bachelor of Science Third year,2,Competent Python programmer (familiar with eg. functions and classes),Yes,"Java,Matlab,R",Can already create tables and write complex SQL queries.,"MySQL,SQLite"
+51,2020-02-28 03:19:08 UTC,F14A,"Second Year
+
+Bachelor of Advanced Computing",1,Competent Python programmer (familiar with eg. functions and classes),Yes,"C,C++,Java,Javascript/ECMAScript,Matlab,R",Can already create tables and write complex SQL queries.,"Microsoft Access,Microsoft SQL Server,MongoDB,MySQL,Oracle,PostgreSQL"
+52,2020-02-28 03:19:01 UTC,F14A,"2nd year
+
+advanced of computing",1,Written some simple Python programs,No,Java,"Heard of it, but never used it.",
+53,2020-02-28 03:19:00 UTC,F14B,Bachelor of Advanced Computing (2nd Year),1,Competent Python programmer (familiar with eg. functions and classes),No,"C,Java,R",Can interpret some SQL statements.,"Microsoft Access,MySQL"
+54,2020-02-28 03:18:58 UTC,"DATA2001, Friday 2-4pm SIT LAB 117 ","Bachelor of science and Doctor of medicine
+
+year 2",0,Basic understanding,No,,Never heard of SQL.,
+55,2020-02-28 03:18:56 UTC,Data2001 SIT117 Fri 2-4pm.,"Bachelor of Science and Doctor of Medicine
+
+Year 2",1,Basic understanding,No,,Never heard of SQL.,
+56,2020-02-28 03:18:44 UTC,F14B,Bachelor of Advanced Computing (2nd Year),1,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R",Written some SQL queries already.,SQLite
+57,2020-02-28 03:18:31 UTC,F14B,I am a year 2 student who is studying bachelor of science and advanced studies major in data science and economics .,1,Written some simple Python programs,No,R,Never heard of SQL.,Other (answer as comment below)
+58,2020-02-28 03:17:53 UTC,"F14A
+
+ ","Bachelor of Commerce and Advanced Studies
+
+Year 2",1,Basic understanding,Yes,Other (answer below in comment),Written some SQL queries already.,Other (answer as comment below)
+59,2020-02-28 03:17:40 UTC,2pm Friday SIT 117,"Bachelor of Science and Doctor of Medicine, 2nd year",1,Written some simple Python programs,No,R,Written some SQL queries already.,
+60,2020-02-28 03:17:17 UTC,F14B,Bachelor of Design Computing - 3rd Year.,2,Competent Python programmer (familiar with eg. functions and classes),Yes,"Java,Javascript/ECMAScript",Can already create tables and write complex SQL queries.,"MongoDB,MySQL,PostgreSQL,SQLite"
+61,2020-02-28 03:13:08 UTC,Friday 2pm SIT Lab 116,"Bachelor of Science/ Bachelor of Advanced Studies (Advanced)
+
+2nd year",3,Written some simple Python programs,No,R,"Heard of it, but never used it.",
+62,2020-02-28 03:11:08 UTC,f14c,2,2,Written some simple Python programs,No,"Java,Visual Basic","Heard of it, but never used it.",Microsoft Access
+63,2020-02-28 03:11:08 UTC,F14C,"Bachelor of Liberal Arts and Science
+
+Year 2",0.5,Written some simple Python programs,No,"Java,R","Heard of it, but never used it.",Oracle
+64,2020-02-28 03:10:57 UTC,"F14 C
+
+SIT LAB 116",Second year Bachlor of science (Medical science),1,Competent Python programmer (familiar with eg. functions and classes),No,R,Never heard of SQL.,Microsoft Access
+65,2020-02-28 03:10:42 UTC,F14C,"i am studying a bachelor of science and advanced studies (majoring in data science and International relations), I am in second year.",1,Written some simple Python programs,No,Java,Never heard of SQL.,Oracle
+66,2020-02-28 03:10:36 UTC,F08A,science and adv studies. year 3,1,Basic understanding,No,R,Never heard of SQL.,Other (answer as comment below)
+67,2020-02-28 03:10:33 UTC,F14C,,1,Written some simple Python programs,No,Matlab,Never heard of SQL.,
+68,2020-02-28 03:09:26 UTC,F14C,"Liberal Arts and Science, 2nd year",1,Written some simple Python programs,Yes,C,Written some SQL queries already.,"MySQL,PostgreSQL"
+69,2020-02-28 03:09:12 UTC,F14C,Bachelor of Commerce and Science. 5th year. ,5,Basic understanding,Yes,"Matlab,R",Can interpret some SQL statements.,Microsoft SQL Server
+70,2020-02-28 03:09:08 UTC,F14C,2nd Year Bachelor of Advanced Computing/Bachelor of Commerce,2,Have written complex Python programs already.,No,"Java,Other (answer below in comment)",Written some SQL queries already.,"MongoDB,PostgreSQL,SQLite"
+71,2020-02-28 03:08:49 UTC,F14C,"Commerce and Science, 5th",3,Have written complex Python programs already.,Yes,"Matlab,R,Other (answer below in comment)",Written some SQL queries already.,Microsoft SQL Server
+72,2020-02-28 03:08:33 UTC,F14C,Bachelor of Science Year 2,2,Competent Python programmer (familiar with eg. functions and classes),No,"Matlab,R","Heard of it, but never used it.",
+73,2020-02-28 03:08:18 UTC,2-4p.m. sit 116,,2,Competent Python programmer (familiar with eg. functions and classes),No,Java,Written some SQL queries already.,MySQL
+74,2020-02-28 03:05:35 UTC,DATA2001,"Bachelor of science 
+
+second year",0.5,Basic understanding,No,R,Never heard of SQL.,
+75,2020-02-28 03:04:46 UTC,,,1,Basic understanding,No,Java,"Heard of it, but never used it.",PostgreSQL
+76,2020-02-28 01:59:21 UTC,F12A,Bachelor of Arts/ Bachelor of Advanced Studies (2nd year) ,0.5,Written some simple Python programs,Yes,,"Heard of it, but never used it.",Microsoft Access
+77,2020-02-28 01:52:05 UTC,,2nd year bachelor of Arts/ Bachelor of Advanced studies,0.5,Written some simple Python programs,Yes,,"Heard of it, but never used it.",Microsoft Access
+78,2020-02-28 01:51:15 UTC,F12A,"Bachelor of Science/Doctor of Dental Medicine, 2nd year",2,Competent Python programmer (familiar with eg. functions and classes),Yes,"R,Other (answer below in comment)",Can interpret some SQL statements.,Microsoft Access
+79,2020-02-28 01:50:14 UTC,F12 I think? ,"Bachelor of liberal arts and sciences, year 3, majoring in philosophy and data science",1,Competent Python programmer (familiar with eg. functions and classes),Yes,R,"Heard of it, but never used it.",
+80,2020-02-28 01:48:04 UTC,"Friday 12 - 2
+
+Room SIT lab 115",Bachelor of Science - second year,2,Written some simple Python programs,No,R,Written some SQL queries already.,"Microsoft Access,PostgreSQL"
+81,2020-02-28 01:38:28 UTC,F12A,"data science, second year",0,Competent Python programmer (familiar with eg. functions and classes),No,R,"Heard of it, but never used it.",MySQL
+82,2020-02-28 01:24:59 UTC,F12D,"Bachelor of advanced computing
+
+second year",1,Written some simple Python programs,No,"Java,R",Can interpret some SQL statements.,MySQL
+83,2020-02-28 01:21:33 UTC,Data2001,"Financial math and statistic, 2 year",2,Competent Python programmer (familiar with eg. functions and classes),No,"Matlab,R","Heard of it, but never used it.",MySQL
+84,2020-02-28 01:21:31 UTC,F12D,in the 2nd year of Advanced  Computing,1,Written some simple Python programs,No,"Java,R","Heard of it, but never used it.",
+85,2020-02-28 01:21:25 UTC,12pm Fri SIT Lab 117,Last year in computer science,3,Competent Python programmer (familiar with eg. functions and classes),Yes,"C,Java",Written some SQL queries already.,"MySQL,SQLite"
+86,2020-02-28 01:21:16 UTC,F12C,"Commerce/Advanced Studies
+
+Majors: Finance, Data Science",1,Competent Python programmer (familiar with eg. functions and classes),No,,"Heard of it, but never used it.",
+87,2020-02-28 01:20:44 UTC,Friday 12:00-2:00 sit lab 117,"computer science 
+
+second year",1,Competent Python programmer (familiar with eg. functions and classes),No,"C#,Java",Written some SQL queries already.,"MySQL,SQLite"
+88,2020-02-28 01:20:22 UTC,F12D,"Commerce/Advance Computing, 2nd year",1,Basic understanding,No,Java,"Heard of it, but never used it.",
+89,2020-02-28 01:20:08 UTC,F12D,2nd year in advanced computing.,1,Written some simple Python programs,No,Java,"Heard of it, but never used it.","Microsoft Access,MySQL"
+90,2020-02-28 01:19:53 UTC,data2001,"year 2, bachelor of science majoring in data science",1,Written some simple Python programs,Yes,R,"Heard of it, but never used it.",Other (answer as comment below)
+91,2020-02-28 01:19:46 UTC,F12,2nd Year Econ Adv. Studies,1,Competent Python programmer (familiar with eg. functions and classes),No,"R,Visual Basic",Written some SQL queries already.,
+92,2020-02-28 01:19:43 UTC,F12A,Bachelor of Science (Maths and Data Science) 2nd Year,3,Have written complex Python programs already.,Yes,"Matlab,R",Written some SQL queries already.,
+93,2020-02-28 01:19:26 UTC,DATA2001,2nd year,1,Basic understanding,Yes,R,Never heard of SQL.,
+94,2020-02-28 01:19:17 UTC,Data2001,,0.5,Basic understanding,No,,Never heard of SQL.,
+95,2020-02-28 01:16:53 UTC,SIT LAB 116,"second year, major in math and data science ",3,Written some simple Python programs,Yes,"Java,Matlab,R",Written some SQL queries already.,Other (answer as comment below)
+96,2020-02-28 01:16:24 UTC,F12C,"Advanced Computing major in Computational Data Science
+
+Second year ",1,Written some simple Python programs,No,Javascript/ECMAScript,Never heard of SQL.,Other (answer as comment below)
+97,2020-02-28 01:16:21 UTC,DATA2001 F12C (Friday 12pm SIT Lab 116),Second Year Bachelor of Science majoring in Medical Science (Program) and minoring in Data Science,1,Basic understanding,No,"Matlab,R",Never heard of SQL.,
+98,2020-02-28 01:16:09 UTC,,,1,Competent Python programmer (familiar with eg. functions and classes),Yes,,Written some SQL queries already.,
+99,2020-02-28 01:15:49 UTC,F12C,"Bachler of advanced computing, second year.",1.5,Written some simple Python programs,No,Java,"Heard of it, but never used it.",Microsoft Access
+100,2020-02-28 01:15:27 UTC,F12C,Computer Science,1,Competent Python programmer (familiar with eg. functions and classes),No,R,Can interpret some SQL statements.,
+101,2020-02-28 01:15:20 UTC,F12C,2nd year in Advanced   Computing,1,Competent Python programmer (familiar with eg. functions and classes),No,R,Never heard of SQL.,Microsoft Access
+102,2020-02-28 01:13:57 UTC,12-2pm SIT Lab 116,I am studying a Bachelor of Economics (economics and data science) in 2nd year.,1,Competent Python programmer (familiar with eg. functions and classes),No,,"Heard of it, but never used it.",
+103,2020-02-28 01:13:45 UTC,Yes,Bachelor of Computer Science Majoring in Information Systems ,1,Written some simple Python programs,Yes,,Written some SQL queries already.,"MySQL,PostgreSQL"
+104,2020-02-28 01:02:37 UTC,F12A,"Psychology, minor in data science - 3rd year",1,Written some simple Python programs,No,R,Never heard of SQL.,
+105,2020-02-28 00:04:31 UTC,"--------
+ADV_F10A
+--------","2nd year
+
+Bachelor of Adv Comp and Bachelor of Science
+
+Major Comp Sci and Data Sci",5,Have written complex Python programs already.,Yes,"Java,Javascript/ECMAScript,R",Can already create tables and write complex SQL queries.,"Microsoft SQL Server,MySQL"
+106,2020-02-27 23:51:41 UTC,Friday 10am SIT  Lab 115,"Bachelor of Science, third year",2,Competent Python programmer (familiar with eg. functions and classes),No,"Java,Matlab","Heard of it, but never used it.",Microsoft Access
+107,2020-02-27 23:42:06 UTC,F12D,"Advanced computing 
+
+year 2",1,Basic understanding,No,"Java,R",Written some SQL queries already.,PostgreSQL
+108,2020-02-27 23:36:08 UTC,3,Y2S1,2,Written some simple Python programs,No,"Java,R","Heard of it, but never used it.",Other (answer as comment below)
+109,2020-02-27 23:30:04 UTC,F10D,"2nd Year, Advanced Computing",1,Competent Python programmer (familiar with eg. functions and classes),No,Java,Can interpret some SQL statements.,"Microsoft Access,Microsoft SQL Server"
+110,2020-02-27 23:29:59 UTC,F10D,"Bachelor of Science / Doctor of Medicine
+
+ 
+
+2nd year",1,Competent Python programmer (familiar with eg. functions and classes),Yes,Java,Written some SQL queries already.,PostgreSQL
+111,2020-02-27 23:29:53 UTC,Friday 10am SIT115,Advanced Computing and Commerce / 2nd year,1,Written some simple Python programs,Yes,Java,"Heard of it, but never used it.",
+112,2020-02-27 23:29:28 UTC,Friday 10am SIT 115,"Bachelor of Advanced Computing. Year 2, semester 2 (mid year intake)",1.5,Competent Python programmer (familiar with eg. functions and classes),Yes,"Java,R",Can interpret some SQL statements.,SQLite
+113,2020-02-27 23:29:09 UTC,F10A,"Advanced Computing
+
+2",10,Have written complex Python programs already.,No,"C,Javascript/ECMAScript,R",Written some SQL queries already.,MongoDB
+114,2020-02-27 23:28:37 UTC,Friday 10am,"****************************************************
+BACHELOR OF COMMERCE AND BACHELOR OF SCIENCE, year 5
+****************************************************",1,Written some simple Python programs,Yes,"Matlab,R","Heard of it, but never used it.",
+115,2020-02-27 23:27:35 UTC,Not Sure,"Economics, Second Year",1,Written some simple Python programs,Yes,"Matlab,R","Heard of it, but never used it.",
+116,2020-02-27 23:26:27 UTC,,,,Written some simple Python programs,No,,Never heard of SQL.,
+117,2020-02-27 23:25:54 UTC,Friday 10am-12pm in room SIT 115.,"I'm an exchange student majoring in computer science, and I am probably most comparable to a second year at USYD.",2,Competent Python programmer (familiar with eg. functions and classes),Yes,"Java,R,Other (answer below in comment)",Written some SQL queries already.,MySQL
+118,2020-02-27 23:20:50 UTC,F10B,Bachelor of Liberal Arts and Science - Year 2,2,Competent Python programmer (familiar with eg. functions and classes),Yes,R,"Heard of it, but never used it.",
+119,2020-02-27 23:19:13 UTC,JIELIN FENG(Liny),.,2,Written some simple Python programs,No,"Java,R",Written some SQL queries already.,"Microsoft SQL Server,MySQL"
+120,2020-02-27 23:19:08 UTC,F10B,"Advanced computing and medical science, 2nd year",1,Competent Python programmer (familiar with eg. functions and classes),No,Java,"Heard of it, but never used it.",
+121,2020-02-27 23:19:05 UTC,lab117 Friday 10am,"Bachelor of Advanced Computing
+
+2nd year",1,Have written complex Python programs already.,No,"C,Java,R",Can interpret some SQL statements.,"MySQL,SQLite"
+122,2020-02-27 23:18:29 UTC,F10B,"Bachelor of Commerce and advanced studies,  in my second year.",1,Competent Python programmer (familiar with eg. functions and classes),Yes,"Javascript/ECMAScript,Matlab","Heard of it, but never used it.",
+123,2020-02-27 23:18:18 UTC,T10 SIT117,"Second year of bachelor of Advanced Computing 
+
+ ",1,Competent Python programmer (familiar with eg. functions and classes),No,Java,"Heard of it, but never used it.",SQLite
+124,2020-02-27 23:18:17 UTC,"sit lab 117, friday 10am-12pm","advanced computing, 2nd year",1,Competent Python programmer (familiar with eg. functions and classes),No,Java,"Heard of it, but never used it.",Oracle
+125,2020-02-27 23:18:06 UTC,,"major: computer science(last year), Statistics (now)
+
+minor:data science",1,Competent Python programmer (familiar with eg. functions and classes),No,R,Never heard of SQL.,
+126,2020-02-27 23:18:03 UTC,f10b,"bachelor of advanced computing, year 2 ",2,Competent Python programmer (familiar with eg. functions and classes),No,Java,"Heard of it, but never used it.",Other (answer as comment below)
+127,2020-02-27 23:18:02 UTC,F10B,"Bachelor of science + Master of Mathematical sciences
+
+2nd year",1,Competent Python programmer (familiar with eg. functions and classes),Yes,"Java,R","Heard of it, but never used it.",
+128,2020-02-27 23:17:17 UTC,"Sit lab 117, 10am-12pm on friday","Advanced computing, 2nd year",1,Competent Python programmer (familiar with eg. functions and classes),No,Java,"Heard of it, but never used it.",Oracle
+129,2020-02-27 23:17:10 UTC,F10B,"Bachelor of Science/Bachelor of Advanced Studies, 2nd Year",1,Written some simple Python programs,Yes,R,"Heard of it, but never used it.",
+130,2020-02-27 23:16:58 UTC,SIT LAB 117 10 -12 am Friday,Bachelors of Computer Science and Technology Year 3.,2,None,No,"C,Java,Javascript/ECMAScript,R,Visual Basic",Written some SQL queries already.,MySQL
+131,2020-02-27 23:16:49 UTC,F10B,"bachelor of liberal arts and science, 2nd year",0.5,Written some simple Python programs,Yes,R,"Heard of it, but never used it.",
+132,2020-02-27 23:16:36 UTC,SIT 117,B. Advanced Computing/B. Commerce,1,Competent Python programmer (familiar with eg. functions and classes),No,"Java,Visual Basic",Written some SQL queries already.,SQLite
+133,2020-02-27 23:15:35 UTC,F10B,Bachelor of Science/ bachelor of Advanced Studies,2,Competent Python programmer (familiar with eg. functions and classes),Yes,R,Written some SQL queries already.,"MySQL,PostgreSQL"
+134,2020-02-27 23:14:07 UTC,M14A,"Bachelor of Advanced Computing, sophomore",2,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R","Heard of it, but never used it.",SQLite
+135,2020-02-27 23:12:44 UTC,F10C,Bachelor of Advanced Computing Year 2 Semester 1,1,Competent Python programmer (familiar with eg. functions and classes),No,Java,Can interpret some SQL statements.,MySQL
+136,2020-02-27 23:12:02 UTC,Friday 10am class SIT 116,2nd year in Bachelor of Adv Computing,2,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R","Heard of it, but never used it.",Microsoft Access
+137,2020-02-27 23:11:21 UTC,Fri 10AM,Exchange,3,Basic understanding,Yes,"C++,C#","Heard of it, but never used it.",
+138,2020-02-27 23:10:50 UTC,Friday 10am B,Bachelor of Advanced Computing - Year 2,1,Competent Python programmer (familiar with eg. functions and classes),No,Java,Can interpret some SQL statements.,"Oracle,SQLite"
+139,2020-02-27 23:10:16 UTC,Friday 4-6pm,"BSci/Adv Studies, Year 2, major Chemistry and Data Science",1,Written some simple Python programs,Yes,R,Never heard of SQL.,
+140,2020-02-27 23:09:58 UTC,Friday 10pm SIT Lab 116,Bachelor of Science (Computer Science & Data Science) - Year 2,0.5,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R","Heard of it, but never used it.",
+141,2020-02-27 23:09:29 UTC,F10C,"Bachelor of Advanced Computing, Second Year",1,Competent Python programmer (familiar with eg. functions and classes),No,Java,Can interpret some SQL statements.,Microsoft Access
+142,2020-02-27 23:09:24 UTC,F10C,Adv Computing/Science (Medical Science) in 2nd year.,1,Competent Python programmer (familiar with eg. functions and classes),No,Other (answer below in comment),"Heard of it, but never used it.",Other (answer as comment below)
+143,2020-02-27 23:08:57 UTC,Friday 10-12 SIT lab 116,2nd Year Psychology,1,Written some simple Python programs,No,,Never heard of SQL.,
+144,2020-02-27 23:08:20 UTC,F10C,"Advanced Computing, 2nd Year",2,Competent Python programmer (familiar with eg. functions and classes),No,"C,Java,R",Can interpret some SQL statements.,"PostgreSQL,SQLite"
+145,2020-02-27 23:06:53 UTC,Friday 10am-12pm SIT LAB 117,"Bachelor of Economics and Bachelor of Advanced Studies.
+
+2nd year? (Transferred after doing 1 year of B Advanced Computing in 2019)",2,Written some simple Python programs,No,R,"Heard of it, but never used it.",Microsoft Access
+146,2020-02-27 23:06:29 UTC,F10_SIT114,"Advanced Computing (Data Science), 1 Year Semester 1 (but overall second Semester)",2,Competent Python programmer (familiar with eg. functions and classes),No,"C,Java,R","Heard of it, but never used it.",
+147,2020-02-27 22:23:39 UTC,I am in the tutorial class that starts at 8am on Friday's. ,"I am completing a bachelor of science, this is my first semester at University of Sydney and have completed 1 semester at UTS. ",2,Basic understanding,No,Java,Can already create tables and write complex SQL queries.,SQLite
+148,2020-02-27 21:36:08 UTC,F14C,Bachelor of Science 2nd Year,2,Competent Python programmer (familiar with eg. functions and classes),No,"Matlab,R","Heard of it, but never used it.",
+149,2020-02-27 21:35:05 UTC,DATA2001 - Data science: Big data and data diversity ,In 1st year second semester.,,Written some simple Python programs,No,Other (answer below in comment),Can interpret some SQL statements.,Oracle
+150,2020-02-27 21:30:21 UTC,F08C,"I'm studying Computer Science and Engineering at the University Carlos III of Madrid, in Spain. I'm an exchange student, and back home, I'm in my third year of the degree.",3,Competent Python programmer (familiar with eg. functions and classes),No,"C,C++,Java,Javascript/ECMAScript,Other (answer below in comment)",Written some SQL queries already.,Oracle
+151,2020-02-27 21:26:47 UTC,Friday 8am SIT117,Advanced Computing (2nd),2,None,No,"Java,Matlab,R",Can interpret some SQL statements.,MySQL
+152,2020-02-27 21:26:36 UTC,Yes,"Bachelor of Advanced Computing, second year",2,Have written complex Python programs already.,No,"Java,Javascript/ECMAScript",Can interpret some SQL statements.,"MySQL,SQLite"
+153,2020-02-27 21:26:13 UTC,"Data 2001, 8-10 on Friday, SIT Lab 117","Data Science Major, second year.",4,Competent Python programmer (familiar with eg. functions and classes),No,"C,C#,Java,R,Visual Basic",Written some SQL queries already.,"Microsoft Access,MySQL,Oracle"
+154,2020-02-27 21:25:56 UTC,F08A,Bachelor of Software Engineering and Science. 3rd year,3,Competent Python programmer (familiar with eg. functions and classes),Yes,Java,Written some SQL queries already.,PostgreSQL
+155,2020-02-27 21:25:50 UTC,"Data Science: Big Data and Data Diversity
+
+ ","Mechatronics engineering, 4th year",2,Competent Python programmer (familiar with eg. functions and classes),Yes,"C,C++,Java,Matlab,Visual Basic",Written some SQL queries already.,MySQL
+156,2020-02-27 21:25:30 UTC,Fri. 8:00 a.m. SIT lab 116,"Im doing the software of engineering, and the second year",2,Competent Python programmer (familiar with eg. functions and classes),No,Java,Never heard of SQL.,
+157,2020-02-27 21:25:15 UTC,F08A,"Comp Sci, 3rd yr",3,Written some simple Python programs,No,Java,Can interpret some SQL statements.,PostgreSQL
+158,2020-02-27 21:25:02 UTC,SIT Lab 117,"Bachelor of Advanced Computing, 2nd year",1,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R",Can interpret some SQL statements.,"Microsoft Access,MySQL"
+159,2020-02-27 21:24:37 UTC,R09A,"Bachelor of Advanced Computing
+
+First year
+
+(changed my degree)",2,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R",Written some SQL queries already.,PostgreSQL
+160,2020-02-27 21:24:35 UTC,Friday 8am adv,"Bsci/Badvstudies
+
+maj: data science + genetics
+
+yr:2",1,Competent Python programmer (familiar with eg. functions and classes),No,,Written some SQL queries already.,
+161,2020-02-27 21:24:27 UTC,F08A,"Bachelor of Commerce, major Finance and Data Sci, Year 2",3,Competent Python programmer (familiar with eg. functions and classes),Yes,"C,Java","Heard of it, but never used it.",
+162,2020-02-27 21:23:38 UTC,SIT room116/8 am/Fri,second year of bachelor of engineering honor(software).,4,Have written complex Python programs already.,No,"C,Java,Visual Basic",Can already create tables and write complex SQL queries.,MySQL
+163,2020-02-27 21:23:34 UTC,Friday 8-10am,"BSc - Health (major), Data Science (minor)",1,Basic understanding,Yes,R,"Heard of it, but never used it.",
+164,2020-02-27 21:23:25 UTC,F08B,"Neuroscience, 4th year on exchange from Northeastern University in Boston, MA USA.",1,Basic understanding,No,Matlab,"Heard of it, but never used it.",
+165,2020-02-27 21:22:50 UTC,F08A,Bachelor of Science/ Doctor of Medicine,1,Written some simple Python programs,Yes,,Never heard of SQL.,
+166,2020-02-27 21:22:35 UTC,"Sit 116, Friday 8 am - 10 am","Advanced Computing, 2nd year",1,Competent Python programmer (familiar with eg. functions and classes),Yes,"Java,R",Written some SQL queries already.,"Oracle,SQLite"
+167,2020-02-27 21:19:26 UTC,DATA2901,"Bachelor of Science/Advanced Studies(Dalyell Scholars), 2nd year",1,Competent Python programmer (familiar with eg. functions and classes),Yes,"R,Other (answer below in comment)",Can already create tables and write complex SQL queries.,"MySQL,PostgreSQL"
+168,2020-02-27 21:18:36 UTC,Friday 8am SIT116,2nd Year Advanced Computing,6,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R",Can interpret some SQL statements.,Microsoft Access
+169,2020-02-27 21:18:31 UTC,data2901,Second year of Commerce Degree,1,Competent Python programmer (familiar with eg. functions and classes),No,Other (answer below in comment),Written some SQL queries already.,"Microsoft Access,MySQL"
+170,2020-02-27 21:17:42 UTC,F08C,"Bachelor of Science/Bachelor of Advanced Studies, 3rd year",1,Competent Python programmer (familiar with eg. functions and classes),Yes,R,"Heard of it, but never used it.",
+171,2020-02-27 21:17:07 UTC,W13B,3rd year Bachelor of Advanced computing/ Bachelor of Commerce,2,Competent Python programmer (familiar with eg. functions and classes),No,"Java,Matlab",Can already create tables and write complex SQL queries.,"MongoDB,PostgreSQL,SQLite"
+172,2020-02-27 21:15:47 UTC,Friday 8,Bachelor of Science and Bachelor of Advanced Studies 2nd year,1,Have written complex Python programs already.,Yes,"Java,R","Heard of it, but never used it.",Microsoft Access
+173,2020-02-27 21:14:33 UTC,F08C,Bachelor of Science/Bachelor of Advanced Studies (Majors in Computer Science and Data Science).,5,Have written complex Python programs already.,Yes,"Java,Javascript/ECMAScript,R",Can interpret some SQL statements.,Microsoft Access
+174,2020-02-27 21:14:29 UTC,DATA2001,Bachelor of Science 3rd year,1,Competent Python programmer (familiar with eg. functions and classes),No,Matlab,Never heard of SQL.,
+175,2020-02-27 21:14:10 UTC,"SIT 116 Friday 8 to 10 pm
+
+ ",Bachelor of Advanced Computing (Major: Computation Data Science and Finance),1,Have written complex Python programs already.,Yes,"Java,R","Heard of it, but never used it.",Oracle
+176,2020-02-27 21:14:08 UTC,8:00-10:00 am RM 116,"BS in CS,  Junior, study abroad from Georgetown University",2,Competent Python programmer (familiar with eg. functions and classes),Yes,"C++,Java,Other (answer below in comment)","Heard of it, but never used it.",
+177,2020-02-27 21:12:47 UTC,Friday 8-10 Lab 118,"Bachelor of science and Advanced studies (2nd year)
+
+ ",1,Written some simple Python programs,Yes,,"Heard of it, but never used it.",
+178,2020-02-27 21:12:05 UTC,F08C,"Science/Adv Studies, 2nd yr",1,Written some simple Python programs,Yes,,"Heard of it, but never used it.",
+179,2020-02-27 21:12:01 UTC,yes,computer science year2,1,Competent Python programmer (familiar with eg. functions and classes),Yes,Java,Written some SQL queries already.,MySQL
+180,2020-02-27 21:02:27 UTC,"Friday 2pm - 4pm, SIT Lab 117","Bachelor of Science and Advanced Studies, majoring in Data Science and Computer Science, 2nd Year",2,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R",Written some SQL queries already.,
+181,2020-02-27 20:06:44 UTC,"At 12pm on Friday, SIT 116.",3rd year. Bachelor of Computer Science and Technology. ,3,Basic understanding,Yes,"C,Java,R",Can interpret some SQL statements.,PostgreSQL
+182,2020-02-27 20:04:23 UTC,F12D,"Under graduated,  second year.",2,Written some simple Python programs,No,"Java,R","Heard of it, but never used it.",MySQL
+183,2020-02-27 17:43:44 UTC,Online tutorial F08D,First year computer science ,1,Competent Python programmer (familiar with eg. functions and classes),No,,Never heard of SQL.,
+184,2020-02-27 14:47:41 UTC,Data2001,"the second year , I just study data1002 and 1001 before about program.",0,None,No,R,Never heard of SQL.,Microsoft Access
+185,2020-02-27 13:21:52 UTC,F10B,"Bachelor of Advanced Computing
+
+Second Year",3,Written some simple Python programs,No,,"Heard of it, but never used it.",
+186,2020-02-27 11:44:00 UTC,"Friday 10-12, SIT lab 116","2nd year, bachelor of science
+
+ ",1,Written some simple Python programs,No,R,Never heard of SQL.,"Microsoft Access,Other (answer as comment below)"
+187,2020-02-27 10:17:55 UTC,Yes. F10A,Bachelor of Science. Second.,0.5,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R","Heard of it, but never used it.",Oracle
+188,2020-02-27 10:09:48 UTC,F10C,"Bachelor of Advanced Computing, Second year",1,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R","Heard of it, but never used it.",Microsoft Access
+189,2020-02-27 09:49:16 UTC,Yes,Bach of science second year,2,Competent Python programmer (familiar with eg. functions and classes),Yes,R,"Heard of it, but never used it.",
+190,2020-02-27 09:07:11 UTC,Friday 8:00-10:00 am (Adv) ,Bachelor of Science/ Advanced studies - 2nd Year ,4,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R","Heard of it, but never used it.",
+191,2020-02-27 08:54:26 UTC,F10A,"Y2
+
+advanced computing & science",1,Competent Python programmer (familiar with eg. functions and classes),Yes,"Java,R",Can interpret some SQL statements.,
+192,2020-02-27 07:32:39 UTC,F10D,"Degree: Bachelor of Advanced computing/ Bachelor of Medical Science
+
+Year: 2nd year",1,Written some simple Python programs,No,,"Heard of it, but never used it.",
+193,2020-02-27 07:14:37 UTC,"-------------------
+DATA2901 Laboratory
+-------------------
+
+Friday 8 a.m. to 10 a.m., weeks 1-6 and 8-13 of semester 1 in [SIT Lab 114] (https://web.timetable.usyd.edu.au/examVenueDetails.jsp?venueAlias=J12.114)","Bsc and Advanced Studies (Advanced)
+
+2nd year",1,Written some simple Python programs,Yes,R,"Heard of it, but never used it.",
+194,2020-02-27 07:06:22 UTC,DATA2001; Tutorial is on Friday at 10 am.,Undergraduate exchange student. Studying for a Master's in Mechanical Engineering at my home institution.,3.5,Competent Python programmer (familiar with eg. functions and classes),Yes,Matlab,Written some SQL queries already.,PostgreSQL
+195,2020-02-27 01:46:45 UTC,F10B,Bachelor of Science and Bachelor of Advanced Studies (Advanced) - Second Year,2,Have written complex Python programs already.,Yes,"Javascript/ECMAScript,Matlab,R",Can already create tables and write complex SQL queries.,
+196,2020-02-27 00:43:00 UTC,F10D,Bachelor of Advanced Computing,2,Written some simple Python programs,No,Java,"Heard of it, but never used it.",MySQL
+197,2020-02-26 23:06:29 UTC,,Software Engineering 4th year,3,None,No,"C,Java",Written some SQL queries already.,MySQL
+198,2020-02-26 22:11:22 UTC,F12B,science 2nd year,1,Written some simple Python programs,Yes,"C,R",Can interpret some SQL statements.,
+199,2020-02-26 19:54:04 UTC,Friday 10am-12pm at SIT118,"Bachelor of Science, year 3.",2.5,Competent Python programmer (familiar with eg. functions and classes),No,"Java,Matlab,R","Heard of it, but never used it.",Microsoft Access
+200,2020-02-26 17:18:57 UTC,"Friday 10 a.m. to 12 p.m., in [SIT Lab 118] (http://web.timetable.usyd.edu.au/examVenueDetails.jsp?venueAlias=J12.118)",Bach of Science and Mstr of Mathematical Sciences ,1,Written some simple Python programs,Yes,R,"Heard of it, but never used it.",Microsoft Access
+201,2020-02-26 15:57:49 UTC,Friday 10:00 SIT Lab 118,"Bachelor of science
+
+second year",1,Competent Python programmer (familiar with eg. functions and classes),Yes,R,"Heard of it, but never used it.",Microsoft Access
+202,2020-02-26 13:21:40 UTC,Fridays 2-4pm SIT Lab 114,2nd year Bachelor of Advanced Computing,1,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R","Heard of it, but never used it.",
+203,2020-02-26 12:08:21 UTC,SIT Lab 114,"Bachelor of Science, 2nd Year",1,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R","Heard of it, but never used it.",
+204,2020-02-26 10:20:01 UTC,I am in SIT Lab 115 at 10 o'clock every Friday morning,I am studying advanced computing from 2019 to 2022. I have two majors: software development and computational data science.,1,Written some simple Python programs,No,"Java,R","Heard of it, but never used it.",
+205,2020-02-26 09:49:36 UTC,F12A,"Software Engineering, second semester of Year two",1,Written some simple Python programs,No,Java,Can interpret some SQL statements.,PostgreSQL
+206,2020-02-26 09:00:25 UTC,F08A Friday 8am,"Bachelor of Science, 2nd Yr",2,Competent Python programmer (familiar with eg. functions and classes),No,"C++,Java,Matlab,R,Visual Basic","Heard of it, but never used it.",
+207,2020-02-26 08:33:09 UTC,F08A,Bachelor Science/Adv.  Studies majoring in Data Science and Chinese Studies,10,Have written complex Python programs already.,Yes,Javascript/ECMAScript,Written some SQL queries already.,PostgreSQL
+208,2020-02-26 06:56:18 UTC,,Biomedical engineering (IT major) 2nd year,,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R","Heard of it, but never used it.",
+209,2020-02-26 05:04:44 UTC,Abbey 12-2 Friday,"Advanced Computing, 2nd year",2,Have written complex Python programs already.,Yes,"Matlab,R","Heard of it, but never used it.",
+210,2020-02-26 04:46:27 UTC,F10D,"Bach Com Bach Adv Studies
+
+2ns year",1,Written some simple Python programs,Yes,,"Heard of it, but never used it.",Microsoft Access
+211,2020-02-26 02:33:08 UTC,Lab115,,2,Basic understanding,Yes,"Java,R",Can interpret some SQL statements.,"Microsoft Access,MySQL,PostgreSQL"
+212,2020-02-26 02:07:23 UTC,f10c,commerce and advanced studies - 3rd year,2,Competent Python programmer (familiar with eg. functions and classes),No,R,Can interpret some SQL statements.,
+213,2020-02-26 01:58:48 UTC,Friday 8am SIT Lab 118,,2,Competent Python programmer (familiar with eg. functions and classes),No,Java,Written some SQL queries already.,
+214,2020-02-26 01:36:18 UTC,"Friday, 2pm to 4pm, SIT Lab 114","Bachelor of Computer Science and Technology
+
+4th year",4,Written some simple Python programs,No,"C,Java",Written some SQL queries already.,"MySQL,Oracle,PostgreSQL"
+215,2020-02-26 01:25:07 UTC,F10B,"B Advanced Computing, 2nd year",2,Competent Python programmer (familiar with eg. functions and classes),No,"Java,Matlab,R","Heard of it, but never used it.",
+216,2020-02-26 01:21:30 UTC,F12A,Bachelor of Advanced Computing and Bachelor of Science third year,2,Competent Python programmer (familiar with eg. functions and classes),Yes,"Java,Matlab,R",Can already create tables and write complex SQL queries.,"MySQL,PostgreSQL"
+217,2020-02-26 00:58:23 UTC,F14D,data science/the second year,0.5,Basic understanding,No,R,Never heard of SQL.,Microsoft Access
+218,2020-02-26 00:35:12 UTC,SIT LAB 115,"Bachelor of Advanced Computing (Majors: Computational data science and Finance) 
+
+Year 2",1,Have written complex Python programs already.,Yes,"Java,R","Heard of it, but never used it.",MySQL
+219,2020-02-26 00:32:24 UTC,12-2pm on Fridays in SIT115,"bachelor of science, 2nd year, majoring in computer science and neuroscience",6,Have written complex Python programs already.,No,"Java,Javascript/ECMAScript",Written some SQL queries already.,SQLite
+220,2020-02-26 00:25:49 UTC,F08D,"I'm an exchange student from Spain, stuying Computer Science and Engineering at ""Universidad Carlos III of Madrid"", specializing in Computer Engineering.
+
+https://www.uc3m.es/bachelor-degree/computer-science#program_previousprogram",3,Competent Python programmer (familiar with eg. functions and classes),No,"C,C++,Java,Other (answer below in comment)",Written some SQL queries already.,Oracle
+221,2020-02-26 00:25:16 UTC,F12A,Advanced computing/commerce 2nd year,1,Competent Python programmer (familiar with eg. functions and classes),No,Java,Written some SQL queries already.,MySQL
+222,2020-02-26 00:13:35 UTC,F16A,"Bachelor of Science, second year.",1,Written some simple Python programs,No,R,"Heard of it, but never used it.",
+223,2020-02-25 23:48:24 UTC,F10D,Bachelor of Science/Masters of Mathematical Sciences,1,Written some simple Python programs,No,,"Heard of it, but never used it.",
+224,2020-02-25 23:43:56 UTC,Friday 10am SIT116,Year 2 Science Advanced studies,1,Basic understanding,No,R,Never heard of SQL.,
+225,2020-02-25 23:34:43 UTC,"DATA 2901 , SIT LAB 114 (10:00 -- 12:00)","year 1 , Bachelor of Advanced Computing",1,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R","Heard of it, but never used it.",Other (answer as comment below)
+226,2020-02-25 23:34:18 UTC,F08A,I am an exchange student majoring in Mathematics and Philosophy and I'm in my 3rd year (out of 4).,1,Written some simple Python programs,Yes,"C,Javascript/ECMAScript,R",Written some SQL queries already.,MySQL
+227,2020-02-25 23:21:17 UTC,Friday 8am SIT Lab 115,"Bachelor of Advanced Computing, 3rd Year",4,Have written complex Python programs already.,Yes,"C,Java,Javascript/ECMAScript,R",Can already create tables and write complex SQL queries.,"MySQL,PostgreSQL,SQLite"
+228,2020-02-25 23:20:41 UTC,F10B Friday 10am-12pm.,Bachelor of Commerce/Bachelor of Advanced Computing - 2nd year,1,Have written complex Python programs already.,No,Java,Can interpret some SQL statements.,
+229,2020-02-25 23:18:33 UTC,F10A,B.Science majoring in computer science (4th year),3,Competent Python programmer (familiar with eg. functions and classes),Yes,"Java,Matlab",Written some SQL queries already.,
+230,2020-02-25 23:12:09 UTC,SIT LAB 117 10 am -12 pm ,Bachelor of Science. In my 3rd year,2,Written some simple Python programs,Yes,R,Written some SQL queries already.,"MySQL,PostgreSQL"
+231,2020-02-25 21:41:19 UTC,F14C,"Bachelor of Advanced Computing, 2nd Year",6,Have written complex Python programs already.,Yes,"Java,R",Can already create tables and write complex SQL queries.,"Microsoft Access,MongoDB,MySQL,PostgreSQL,SQLite"
+232,2020-02-25 21:08:31 UTC,F08A,Second year of Bachelor of Advanced computing,1,Competent Python programmer (familiar with eg. functions and classes),No,"C,Java,R",Can interpret some SQL statements.,SQLite
+233,2020-02-25 13:34:48 UTC,F10D,Computing business analytics,5,Competent Python programmer (familiar with eg. functions and classes),Yes,"Java,R",Written some SQL queries already.,"Microsoft SQL Server,MySQL"
+234,2020-02-25 12:45:37 UTC,F14c,"Bachelor of advanced computing
+
+2nd year",0,Basic understanding,No,Java,"Heard of it, but never used it.",
+235,2020-02-25 10:27:45 UTC,SIT115 8am,Bachelor of Science - Data Science and Information Technology,2,Competent Python programmer (familiar with eg. functions and classes),No,"Java,Javascript/ECMAScript,R,Visual Basic",Written some SQL queries already.,Microsoft Access
+236,2020-02-25 09:41:42 UTC,"Friday, 10-12am","I am studying the Bachelor of Science/Bachelor of Advanced studies, in my second year.",1,Have written complex Python programs already.,Yes,"Java,R","Heard of it, but never used it.",
+237,2020-02-25 08:14:43 UTC,F14C,"3rd year, adv comp",2,Competent Python programmer (familiar with eg. functions and classes),Yes,"C,Java",Can already create tables and write complex SQL queries.,"MySQL,PostgreSQL"
+238,2020-02-25 05:58:40 UTC,SIT LAB 116,"Bachelor of Advanced Computing 
+
+the second year",1.5,Competent Python programmer (familiar with eg. functions and classes),Yes,"Java,Matlab,R","Heard of it, but never used it.",Microsoft SQL Server
+239,2020-02-25 02:52:32 UTC,F14A,"Bachelor of Advanced Computing, 2nd year.",1,Written some simple Python programs,No,"C,Java,R",Can interpret some SQL statements.,SQLite
+240,2020-02-24 21:49:32 UTC,F14C Friday 2-4pm SIT 116,"Bachelor of Advanced Computing, 2nd year.",2,Competent Python programmer (familiar with eg. functions and classes),No,"C,C++,Java,Matlab,R","Heard of it, but never used it.","Microsoft Access,MySQL"
+241,2020-02-24 11:39:57 UTC,"Friday 10 a.m. to 12 p.m., weeks 1-6 and 8-13 of semester 1 in [SIT Lab 116] (https://web.timetable.usyd.edu.au/examVenueDetails.jsp?venueAlias=J12.116)",bachelor of science. data science major,1,Written some simple Python programs,Yes,"Matlab,R",Never heard of SQL.,Microsoft Access
+242,2020-02-24 08:51:57 UTC,sit lab 115 4-6 friday,"bachelor of design computing, y2",1,Competent Python programmer (familiar with eg. functions and classes),No,Javascript/ECMAScript,"Heard of it, but never used it.",
+243,2020-02-24 08:14:33 UTC,F10C,4th Year Software Engineering and Science,3,Written some simple Python programs,No,"Java,R",Can interpret some SQL statements.,
+244,2020-02-24 04:20:36 UTC,"Friday SIT Lab 116
+
+From 2pm to 4 pm","Bachelor of advanced computing
+
+year 2 semester 1",1,Competent Python programmer (familiar with eg. functions and classes),No,"Java,Matlab,R",Can interpret some SQL statements.,SQLite
+245,2020-02-24 03:58:17 UTC,"SIT Lab 115,Fri. 8:00 -- 10:00",Bachelor of Advanced Computing --Year 2,1,Have written complex Python programs already.,No,Java,"Heard of it, but never used it.",SQLite
+246,2020-02-24 03:34:19 UTC,F10B,"bachelor of commerce and bachelor of advanced studies 
+
+a second-year student",1,Competent Python programmer (familiar with eg. functions and classes),Yes,Matlab,Written some SQL queries already.,MySQL
+247,2020-02-23 11:25:49 UTC,"Fri 2pm, SIT 117",Bachelor of advanced computing,2,Competent Python programmer (familiar with eg. functions and classes),Yes,"C,Java,Matlab,R",Written some SQL queries already.,"MySQL,PostgreSQL"
+248,2020-02-23 10:30:48 UTC,SIT Lab 115,Bachelor of commerce . Finance and Data Science . Year 2,1,Written some simple Python programs,Yes,Matlab,"Heard of it, but never used it.",Microsoft Access
+249,2020-02-22 04:26:05 UTC,"Friday 8-10
+
+SIT lab 116","Bachelor of science and bachelor of advanced studies (advanced)
+
+Year 3",2,Written some simple Python programs,Yes,"Matlab,R",Written some SQL queries already.,
+250,2020-02-22 02:38:47 UTC,F14A,second-year bachelor degree of biomedical engineering (major in information technology),1.5,Competent Python programmer (familiar with eg. functions and classes),No,"Java,Matlab,R","Heard of it, but never used it.",Other (answer as comment below)
+251,2020-02-22 01:01:40 UTC,friday 8am,Computing Science year 3,4,Competent Python programmer (familiar with eg. functions and classes),No,"C,Java",Written some SQL queries already.,"MySQL,PostgreSQL"
+252,2020-02-22 01:00:27 UTC,F08,"Bachelor of Science major in Financial mathematics, 2nd year  ",1,Competent Python programmer (familiar with eg. functions and classes),Yes,Java,"Heard of it, but never used it.",MySQL
+253,2020-02-21 22:55:02 UTC,"Friday 12 p.m. to 2 p.m., weeks 1-6 and 8-13 of semester 1 in [SIT Lab 114] (https://web.timetable.usyd.edu.au/examVenueDetails.jsp?venueAlias=J12.114)",Double degree program - Masters of Data Science + Bachelors of Adv computing ,3,Have written complex Python programs already.,Yes,"C,C++,Java,R,Visual Basic",Written some SQL queries already.,"Microsoft Access,Microsoft SQL Server,MySQL,Oracle,SQLite"
+254,2020-02-21 15:26:02 UTC,F14A,"Bachelor of Computer Science, Year 3",2,Competent Python programmer (familiar with eg. functions and classes),Yes,"Java,Matlab",Can interpret some SQL statements.,MySQL
+255,2020-02-21 10:45:40 UTC,F10A DATA2901 10-12,"Bachelor of Science and Master of Mathematical Sciences
+
+Second Year",1,Competent Python programmer (familiar with eg. functions and classes),Yes,R,"Heard of it, but never used it.",
+256,2020-02-21 04:05:54 UTC,,,3,Written some simple Python programs,Yes,"C,Java",Can interpret some SQL statements.,MySQL
+257,2020-02-20 23:14:58 UTC,Friday 8am,Bachelor of Economics Bachelor of Advanced Studies (Financial Economics and Data Science majors) in 2nd year,1,Written some simple Python programs,No,,"Heard of it, but never used it.",
+258,2020-02-20 13:35:27 UTC,"DATA2001
+
+INFO1113
+
+INFO1111
+
+COMP2123",1st year in Advanced Computing,1,Have written complex Python programs already.,No,"C,Java","Heard of it, but never used it.",MySQL
+259,2020-02-20 11:14:20 UTC,,,1.5,Competent Python programmer (familiar with eg. functions and classes),No,"Java,R","Heard of it, but never used it.",
+260,2020-02-20 02:47:13 UTC,Friday 2-4pm,B of Advanced  Computing (Honours) 4th year,2,Written some simple Python programs,Yes,Java,Written some SQL queries already.,"MySQL,PostgreSQL"
+261,2020-02-20 02:04:26 UTC,f10b,"year 2
+
+advanced computing",1,Competent Python programmer (familiar with eg. functions and classes),No,Java,"Heard of it, but never used it.",
+262,2020-02-19 23:51:57 UTC,10am to 12pm SIT Lab 117,"Bachelor of Economics, First year",0,Written some simple Python programs,No,Other (answer below in comment),Never heard of SQL.,Other (answer as comment below)
+263,2020-02-19 22:19:59 UTC,F10D,"Bachelor of Advanced computing/Bachelor of medical science, 2nd year",0,Written some simple Python programs,No,,"Heard of it, but never used it.",
